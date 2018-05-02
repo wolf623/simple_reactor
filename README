@@ -1,0 +1,11 @@
+
+simple_reactor.h: The head file of reacotr
+
+simple_reactor.c: The mqueue/timer/socket reactor
+
+reactor_test.c: The test for this reactor
+
+More Information about timerfd, please see:
+https://www.cnblogs.com/wenqiang/p/6698371.html
+http://blog.csdn.net/walkingman321/article/details/6162055
+
